@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="txtNum">Digite um número para o sorteio.</string>
+    <string name="roll_label">Rolar</string>
+</resources>
